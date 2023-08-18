@@ -2,6 +2,8 @@
 
 React öğrenirken basit bir CRUD example örneğini repoda paylaşmaktayım.
 
+Teknolojiler : Spring boot, React, Postgresql, Vite, Bootstrap, Router-dom, react-icons, axios
+
 Resimler:
 
 Anasayfa : 
